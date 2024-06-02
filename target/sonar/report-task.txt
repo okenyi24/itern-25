@@ -1,0 +1,6 @@
+projectKey=itern-25
+serverUrl=http://52.45.139.88:9000
+serverVersion=9.4.0.54424
+dashboardUrl=http://52.45.139.88:9000/dashboard?id=itern-25
+ceTaskId=AY_BlFo1-tMUzaG2dn6f
+ceTaskUrl=http://52.45.139.88:9000/api/ce/task?id=AY_BlFo1-tMUzaG2dn6f

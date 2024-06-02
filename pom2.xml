@@ -186,8 +186,6 @@
     <repository>
         <id>central</id>
         <name>ip-172-31-44-197.ec2.internal-releases</name>
-        <url>http://52.45.139.88:8082/artifactory/itern-25-libs-release</url>
+        <url>http://52.45.139.88:8082/artifactory/itern-25-libs-release-local</url>
     </repository>
 </distributionManagement>
-
-</project>
